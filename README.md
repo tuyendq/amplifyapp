@@ -1,2 +1,1 @@
-# amplifyapp
-LTHW - Amplify
+# LTHW - Amplify
